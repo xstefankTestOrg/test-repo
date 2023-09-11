@@ -11,7 +11,7 @@ wildfly:
 
     - id: "last id"
       directories: [ src/main ]
-      notify: [ petrberan ]
+      notify: [ xstefank ]
 
     - id: "new id"
       directories: [ pom.xml ]
